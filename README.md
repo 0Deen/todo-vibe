@@ -40,13 +40,13 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
+   git clone https://github.com/0Deen/todo-vibe.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd todo-list
+   cd todo-vibe
    ```
 
 3. **Open `index.html` in a Browser:**
@@ -175,4 +175,4 @@ The TO-DOIT App is deployed and accessible online. You can use the following lin
 
 ## 9. License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@abdellatif-laghjaj](https://github.com/0Deen) with the contribution of [@takitajwar17](https://github.com/0Deen). 
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@Kiprotich](https://github.com/0Deen) with the contribution of [@Kiprotich](https://github.com/0Deen). 
